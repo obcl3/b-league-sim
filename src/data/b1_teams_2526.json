@@ -1,0 +1,30 @@
+{
+  "teams": {
+    "utsunomiya": { "name": "宇都宮ブレックス" },
+    "chiba": { "name": "千葉ジェッツ" },
+    "hokkaido": { "name": "レバンガ北海道" },
+    "tokyo": { "name": "アルバルク東京" },
+    "gunma": { "name": "群馬クレインサンダーズ" },
+    "sendai": { "name": "仙台89ERS" },
+    "shibuya": { "name": "サンロッカーズ渋谷" },
+    "koshigaya": { "name": "越谷アルファーズ" },
+    "yokohama": { "name": "横浜ビー・コルセアーズ" },
+    "a_chiba": { "name": "アルティーリ千葉" },
+    "ibaraki": { "name": "茨城ロボッツ" },
+    "kawasaki": { "name": "川崎ブレイブサンダース" },
+    "akita": { "name": "秋田ノーザンハピネッツ" },
+    "nagasaki": { "name": "長崎ヴェルカ" },
+    "nagoya_d": { "name": "名古屋ダイヤモンドドルフィンズ" },
+    "mikawa": { "name": "シーホース三河" },
+    "ryukyu": { "name": "琉球ゴールデンキングス" },
+    "hiroshima": { "name": "広島ドラゴンフライズ" },
+    "saga": { "name": "佐賀バルーナーズ" },
+    "shimane": { "name": "島根スサノオマジック" },
+    "sanen": { "name": "三遠ネオフェニックス" },
+    "osaka": { "name": "大阪エヴェッサ" },
+    "nagoya_f": { "name": "ファイティングイーグルス名古屋" },
+    "shiga": { "name": "滋賀レイクス" },
+    "kyoto": { "name": "京都ハンナリーズ" },
+    "toyama": { "name": "富山グラウジーズ" }
+  }
+}

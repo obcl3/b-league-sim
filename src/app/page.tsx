@@ -203,7 +203,7 @@ export default function GamePage() {
           <div className="bg-slate-900 rounded-2xl p-8 border-b-4 border-blue-600 shadow-2xl relative overflow-hidden">
             <div className="flex justify-between items-center">
               <div className="text-center">
-                <div className="text-sm font-bold text-blue-400 mb-1">HOME</div>
+                <div className="text-[10px] font-bold text-blue-400 mb-1 uppercase">{(playersData.teams as any)[selectedTeamKey]?.name || 'HOME'}</div>
                 <div className="text-7xl font-black tabular-nums tracking-tighter text-white">{homeScore}</div>
               </div>
               <div className="text-center flex flex-col items-center">
@@ -219,7 +219,7 @@ export default function GamePage() {
                 {phase === 'QUARTER_BREAK' && <button onClick={() => { setQuarter(q => q + 1); setGameTime(Q_LENGTH); setPhase('PLAYING'); }} className="bg-yellow-600 text-white px-8 py-3 rounded-full font-black text-lg">START Q{quarter + 1}</button>}
               </div>
               <div className="text-center">
-                <div className="text-sm font-bold text-red-400 mb-1">AWAY</div>
+                <div className="text-[10px] font-bold text-red-400 mb-1 uppercase">{(playersData.teams as any)[opponentTeamKey]?.name || 'AWAY'}</div>
                 <div className="text-7xl font-black tabular-nums tracking-tighter text-white">{awayScore}</div>
               </div>
             </div>
