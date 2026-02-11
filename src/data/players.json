@@ -1,102 +1,39 @@
 {
-  "kyoto": [
-    {
-      "id": "k1",
-      "name": "アンジェロ・カロイアロ",
-      "team": "京都",
-      "pos": "PF",
-      "isForeign": true,
-      "params": { "scoring": 65.5, "playmaking": 75.0, "defense": 55.0, "stamina": 85 }
+  "teams": {
+    "kyoto": {
+      "name": "京都ハンナリーズ",
+      "roster": [
+        { "id": "k1", "name": "アンジェロ・カロイアロ", "pos": "PF", "isForeign": true, "params": { "scoring": 82, "playmaking": 75, "defense": 78, "stamina": 85 } },
+        { "id": "k2", "name": "チャールズ・ジャクソン", "pos": "C", "isForeign": true, "params": { "scoring": 75, "playmaking": 30, "defense": 92, "stamina": 80 } },
+        { "id": "k3", "name": "ジョーダン・ヒース", "pos": "C/PF", "isForeign": true, "params": { "scoring": 78, "playmaking": 45, "defense": 95, "stamina": 75 } },
+        { "id": "k4", "name": "岡田 侑大", "pos": "PG/SG", "isForeign": false, "params": { "scoring": 88, "playmaking": 92, "defense": 65, "stamina": 85 } },
+        { "id": "k5", "name": "前田 悟", "pos": "SG/SF", "isForeign": false, "params": { "scoring": 72, "playmaking": 50, "defense": 68, "stamina": 80 } },
+        { "id": "k6", "name": "澁田 怜音", "pos": "PG", "isForeign": false, "params": { "scoring": 65, "playmaking": 78, "defense": 60, "stamina": 75 } },
+        { "id": "k7", "name": "古川 孝敏", "pos": "SG/SF", "isForeign": false, "params": { "scoring": 74, "playmaking": 40, "defense": 65, "stamina": 70 } },
+        { "id": "k8", "name": "小西 聖也", "pos": "PG/SG", "isForeign": false, "params": { "scoring": 60, "playmaking": 65, "defense": 72, "stamina": 80 } },
+        { "id": "k9", "name": "川島 悠翔", "pos": "SF", "isForeign": false, "params": { "scoring": 70, "playmaking": 55, "defense": 68, "stamina": 85 } }
+      ]
     },
-    {
-      "id": "k2",
-      "name": "チャールズ・ジャクソン",
-      "team": "京都",
-      "pos": "C",
-      "isForeign": true,
-      "params": { "scoring": 55.0, "playmaking": 30.0, "defense": 88.0, "stamina": 80 }
+    "tokyo": {
+      "name": "アルバルク東京",
+      "roster": [
+        { "id": "t1", "name": "セバスチャン・サイズ", "pos": "C/PF", "isForeign": true, "params": { "scoring": 85, "playmaking": 40, "defense": 95, "stamina": 85 } },
+        { "id": "t2", "name": "テーブス 海", "pos": "PG", "isForeign": false, "params": { "scoring": 75, "playmaking": 90, "defense": 70, "stamina": 85 } },
+        { "id": "t3", "name": "安藤 周人", "pos": "SG", "isForeign": false, "params": { "scoring": 80, "playmaking": 50, "defense": 75, "stamina": 80 } },
+        { "id": "t4", "name": "レオナルド・メインデル", "pos": "SF", "isForeign": true, "params": { "scoring": 88, "playmaking": 70, "defense": 82, "stamina": 80 } },
+        { "id": "t5", "name": "ライアン・ロシター", "pos": "PF/C", "isForeign": true, "params": { "scoring": 82, "playmaking": 75, "defense": 90, "stamina": 85 } },
+        { "id": "t6", "name": "吉井 裕鷹", "pos": "SF", "isForeign": false, "params": { "scoring": 70, "playmaking": 45, "defense": 85, "stamina": 80 } }
+      ]
     },
-    {
-      "id": "k3",
-      "name": "ジョーダン・ヒース",
-      "team": "京都",
-      "pos": "C/PF",
-      "isForeign": true,
-      "params": { "scoring": 58.0, "playmaking": 45.0, "defense": 92.0, "stamina": 75 }
-    },
-    {
-      "id": "k4",
-      "name": "岡田 侑大",
-      "team": "京都",
-      "pos": "PG/SG",
-      "isForeign": false,
-      "params": { "scoring": 72.0, "playmaking": 88.0, "defense": 30.0, "stamina": 85 }
-    },
-    {
-      "id": "k5",
-      "name": "前田 悟",
-      "team": "京都",
-      "pos": "SG/SF",
-      "isForeign": false,
-      "params": { "scoring": 60.0, "playmaking": 40.0, "defense": 35.0, "stamina": 75 }
-    },
-    {
-      "id": "k6",
-      "name": "澁田 怜音",
-      "team": "京都",
-      "pos": "PG",
-      "isForeign": false,
-      "params": { "scoring": 45.0, "playmaking": 65.0, "defense": 25.0, "stamina": 70 }
-    },
-    {
-      "id": "k7",
-      "name": "古川 孝敏",
-      "team": "京都",
-      "pos": "SG/SF",
-      "isForeign": false,
-      "params": { "scoring": 62.0, "playmaking": 35.0, "defense": 32.0, "stamina": 75 }
+    "utsunomiya": {
+      "name": "宇都宮ブレックス",
+      "roster": [
+        { "id": "u1", "name": "比江島 慎", "pos": "SG", "isForeign": false, "params": { "scoring": 92, "playmaking": 78, "defense": 75, "stamina": 82 } },
+        { "id": "u2", "name": "D.J・ニュービル", "pos": "PG/SG", "isForeign": true, "params": { "scoring": 95, "playmaking": 85, "defense": 82, "stamina": 85 } },
+        { "id": "u3", "name": "竹内 公輔", "pos": "PF/C", "isForeign": false, "params": { "scoring": 65, "playmaking": 40, "defense": 88, "stamina": 70 } },
+        { "id": "u4", "name": "ギャビン・エドワーズ", "pos": "PF/C", "isForeign": true, "params": { "scoring": 78, "playmaking": 50, "defense": 92, "stamina": 80 } },
+        { "id": "u5", "name": "遠藤 祐亮", "pos": "SG", "isForeign": false, "params": { "scoring": 75, "playmaking": 45, "defense": 85, "stamina": 80 } }
+      ]
     }
-  ],
-  "rival": [
-    {
-      "id": "r1",
-      "name": "ライバル 選手A",
-      "team": "ライバル",
-      "pos": "PG",
-      "isForeign": false,
-      "params": { "scoring": 60, "playmaking": 70, "defense": 50, "stamina": 80 }
-    },
-    {
-      "id": "r2",
-      "name": "ライバル 選手B",
-      "team": "ライバル",
-      "pos": "SG",
-      "isForeign": false,
-      "params": { "scoring": 65, "playmaking": 40, "defense": 45, "stamina": 80 }
-    },
-    {
-      "id": "r3",
-      "name": "ライバル 選手C",
-      "team": "ライバル",
-      "pos": "SF",
-      "isForeign": true,
-      "params": { "scoring": 75, "playmaking": 50, "defense": 70, "stamina": 80 }
-    },
-    {
-      "id": "r4",
-      "name": "ライバル 選手D",
-      "team": "ライバル",
-      "pos": "PF",
-      "isForeign": true,
-      "params": { "scoring": 70, "playmaking": 40, "defense": 80, "stamina": 80 }
-    },
-    {
-      "id": "r5",
-      "name": "ライバル 選手E",
-      "team": "ライバル",
-      "pos": "C",
-      "isForeign": true,
-      "params": { "scoring": 50, "playmaking": 30, "defense": 90, "stamina": 80 }
-    }
-  ]
+  }
 }
