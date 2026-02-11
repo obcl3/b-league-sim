@@ -1,0 +1,102 @@
+{
+  "kyoto": [
+    {
+      "id": "k1",
+      "name": "アンジェロ・カロイアロ",
+      "team": "京都",
+      "pos": "PF",
+      "isForeign": true,
+      "params": { "scoring": 65.5, "playmaking": 75.0, "defense": 55.0, "stamina": 85 }
+    },
+    {
+      "id": "k2",
+      "name": "チャールズ・ジャクソン",
+      "team": "京都",
+      "pos": "C",
+      "isForeign": true,
+      "params": { "scoring": 55.0, "playmaking": 30.0, "defense": 88.0, "stamina": 80 }
+    },
+    {
+      "id": "k3",
+      "name": "ジョーダン・ヒース",
+      "team": "京都",
+      "pos": "C/PF",
+      "isForeign": true,
+      "params": { "scoring": 58.0, "playmaking": 45.0, "defense": 92.0, "stamina": 75 }
+    },
+    {
+      "id": "k4",
+      "name": "岡田 侑大",
+      "team": "京都",
+      "pos": "PG/SG",
+      "isForeign": false,
+      "params": { "scoring": 72.0, "playmaking": 88.0, "defense": 30.0, "stamina": 85 }
+    },
+    {
+      "id": "k5",
+      "name": "前田 悟",
+      "team": "京都",
+      "pos": "SG/SF",
+      "isForeign": false,
+      "params": { "scoring": 60.0, "playmaking": 40.0, "defense": 35.0, "stamina": 75 }
+    },
+    {
+      "id": "k6",
+      "name": "澁田 怜音",
+      "team": "京都",
+      "pos": "PG",
+      "isForeign": false,
+      "params": { "scoring": 45.0, "playmaking": 65.0, "defense": 25.0, "stamina": 70 }
+    },
+    {
+      "id": "k7",
+      "name": "古川 孝敏",
+      "team": "京都",
+      "pos": "SG/SF",
+      "isForeign": false,
+      "params": { "scoring": 62.0, "playmaking": 35.0, "defense": 32.0, "stamina": 75 }
+    }
+  ],
+  "rival": [
+    {
+      "id": "r1",
+      "name": "ライバル 選手A",
+      "team": "ライバル",
+      "pos": "PG",
+      "isForeign": false,
+      "params": { "scoring": 60, "playmaking": 70, "defense": 50, "stamina": 80 }
+    },
+    {
+      "id": "r2",
+      "name": "ライバル 選手B",
+      "team": "ライバル",
+      "pos": "SG",
+      "isForeign": false,
+      "params": { "scoring": 65, "playmaking": 40, "defense": 45, "stamina": 80 }
+    },
+    {
+      "id": "r3",
+      "name": "ライバル 選手C",
+      "team": "ライバル",
+      "pos": "SF",
+      "isForeign": true,
+      "params": { "scoring": 75, "playmaking": 50, "defense": 70, "stamina": 80 }
+    },
+    {
+      "id": "r4",
+      "name": "ライバル 選手D",
+      "team": "ライバル",
+      "pos": "PF",
+      "isForeign": true,
+      "params": { "scoring": 70, "playmaking": 40, "defense": 80, "stamina": 80 }
+    },
+    {
+      "id": "r5",
+      "name": "ライバル 選手E",
+      "team": "ライバル",
+      "pos": "C",
+      "isForeign": true,
+      "params": { "scoring": 50, "playmaking": 30, "defense": 90, "stamina": 80 }
+    }
+  ]
+}
