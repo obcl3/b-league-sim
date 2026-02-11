@@ -1,190 +1,231 @@
 {
   "teams": {
-    "kyoto": {
-      "name": "京都ハンナリーズ",
+    "hokkaido": {
+      "name": "レバンガ北海道",
       "roster": [
         {
-          "id": "k1",
-          "name": "アンジェロ・カロイアロ",
-          "pos": "PF",
-          "isForeign": true,
-          "params": {
-            "scoring": 82,
-            "playmaking": 75,
-            "defense": 78,
-            "stamina": 85
-          }
-        },
-        {
-          "id": "k2",
-          "name": "チャールズ・ジャクソン",
-          "pos": "C",
-          "isForeign": true,
-          "params": {
-            "scoring": 75,
-            "playmaking": 30,
-            "defense": 92,
-            "stamina": 80
-          }
-        },
-        {
-          "id": "k3",
-          "name": "ジョーダン・ヒース",
-          "pos": "C/PF",
-          "isForeign": true,
-          "params": {
-            "scoring": 78,
-            "playmaking": 45,
-            "defense": 95,
-            "stamina": 75
-          }
-        },
-        {
-          "id": "k4",
-          "name": "岡田 侑大",
-          "pos": "PG/SG",
-          "isForeign": false,
-          "params": {
-            "scoring": 88,
-            "playmaking": 92,
-            "defense": 65,
-            "stamina": 85
-          }
-        },
-        {
-          "id": "k5",
-          "name": "前田 悟",
-          "pos": "SG/SF",
-          "isForeign": false,
-          "params": {
-            "scoring": 72,
-            "playmaking": 50,
-            "defense": 68,
-            "stamina": 80
-          }
-        },
-        {
-          "id": "k6",
-          "name": "澁田 怜音",
+          "id": "レバンガ北海道-選手a",
+          "name": "レバンガ北海道 選手A",
           "pos": "PG",
           "isForeign": false,
           "params": {
-            "scoring": 65,
-            "playmaking": 78,
-            "defense": 60,
-            "stamina": 75
-          }
-        },
-        {
-          "id": "k7",
-          "name": "古川 孝敏",
-          "pos": "SG/SF",
-          "isForeign": false,
-          "params": {
-            "scoring": 74,
-            "playmaking": 40,
+            "scoring": 70,
+            "playmaking": 70,
             "defense": 65,
-            "stamina": 70
-          }
-        },
-        {
-          "id": "k8",
-          "name": "小西 聖也",
-          "pos": "PG/SG",
-          "isForeign": false,
-          "params": {
-            "scoring": 60,
-            "playmaking": 65,
-            "defense": 72,
             "stamina": 80
           }
         },
         {
-          "id": "k9",
-          "name": "川島 悠翔",
+          "id": "レバンガ北海道-選手b",
+          "name": "レバンガ北海道 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "レバンガ北海道-選手c",
+          "name": "レバンガ北海道 選手C",
           "pos": "SF",
           "isForeign": false,
           "params": {
             "scoring": 70,
-            "playmaking": 55,
-            "defense": 68,
-            "stamina": 85
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "レバンガ北海道-選手d",
+          "name": "レバンガ北海道 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "レバンガ北海道-選手e",
+          "name": "レバンガ北海道 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "レバンガ北海道-選手f",
+          "name": "レバンガ北海道 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
           }
         }
       ]
     },
-    "tokyo": {
-      "name": "アルバルク東京",
+    "sendai": {
+      "name": "仙台89ERS",
       "roster": [
         {
-          "id": "t1",
-          "name": "セバスチャン・サイズ",
-          "pos": "C/PF",
-          "isForeign": true,
-          "params": {
-            "scoring": 85,
-            "playmaking": 40,
-            "defense": 95,
-            "stamina": 85
-          }
-        },
-        {
-          "id": "t2",
-          "name": "テーブス 海",
+          "id": "仙台89ers-選手a",
+          "name": "仙台89ERS 選手A",
           "pos": "PG",
           "isForeign": false,
           "params": {
-            "scoring": 75,
-            "playmaking": 90,
-            "defense": 70,
-            "stamina": 85
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
           }
         },
         {
-          "id": "t3",
-          "name": "安藤 周人",
+          "id": "仙台89ers-選手b",
+          "name": "仙台89ERS 選手B",
           "pos": "SG",
           "isForeign": false,
           "params": {
-            "scoring": 80,
-            "playmaking": 50,
-            "defense": 75,
-            "stamina": 80
-          }
-        },
-        {
-          "id": "t4",
-          "name": "レオナルド・メインデル",
-          "pos": "SF",
-          "isForeign": true,
-          "params": {
-            "scoring": 88,
+            "scoring": 70,
             "playmaking": 70,
-            "defense": 82,
+            "defense": 65,
             "stamina": 80
           }
         },
         {
-          "id": "t5",
-          "name": "ライアン・ロシター",
-          "pos": "PF/C",
-          "isForeign": true,
-          "params": {
-            "scoring": 82,
-            "playmaking": 75,
-            "defense": 90,
-            "stamina": 85
-          }
-        },
-        {
-          "id": "t6",
-          "name": "吉井 裕鷹",
+          "id": "仙台89ers-選手c",
+          "name": "仙台89ERS 選手C",
           "pos": "SF",
           "isForeign": false,
           "params": {
             "scoring": 70,
-            "playmaking": 45,
-            "defense": 85,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "仙台89ers-選手d",
+          "name": "仙台89ERS 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "仙台89ers-選手e",
+          "name": "仙台89ERS 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "仙台89ers-選手f",
+          "name": "仙台89ERS 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "ibaraki": {
+      "name": "茨城ロボッツ",
+      "roster": [
+        {
+          "id": "茨城ロボッツ-選手a",
+          "name": "茨城ロボッツ 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "茨城ロボッツ-選手b",
+          "name": "茨城ロボッツ 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "茨城ロボッツ-選手c",
+          "name": "茨城ロボッツ 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "茨城ロボッツ-選手d",
+          "name": "茨城ロボッツ 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "茨城ロボッツ-選手e",
+          "name": "茨城ロボッツ 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "茨城ロボッツ-選手f",
+          "name": "茨城ロボッツ 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
             "stamina": 80
           }
         }
@@ -194,62 +235,228 @@
       "name": "宇都宮ブレックス",
       "roster": [
         {
-          "id": "u1",
-          "name": "比江島 慎",
-          "pos": "SG",
+          "id": "宇都宮ブレックス-選手a",
+          "name": "宇都宮ブレックス 選手A",
+          "pos": "PG",
           "isForeign": false,
           "params": {
-            "scoring": 92,
-            "playmaking": 78,
-            "defense": 75,
-            "stamina": 82
-          }
-        },
-        {
-          "id": "u2",
-          "name": "D.J・ニュービル",
-          "pos": "PG/SG",
-          "isForeign": true,
-          "params": {
-            "scoring": 95,
-            "playmaking": 85,
-            "defense": 82,
-            "stamina": 85
-          }
-        },
-        {
-          "id": "u3",
-          "name": "竹内 公輔",
-          "pos": "PF/C",
-          "isForeign": false,
-          "params": {
-            "scoring": 65,
-            "playmaking": 40,
-            "defense": 88,
-            "stamina": 70
-          }
-        },
-        {
-          "id": "u4",
-          "name": "ギャビン・エドワーズ",
-          "pos": "PF/C",
-          "isForeign": true,
-          "params": {
-            "scoring": 78,
-            "playmaking": 50,
-            "defense": 92,
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
             "stamina": 80
           }
         },
         {
-          "id": "u5",
-          "name": "遠藤 祐亮",
+          "id": "宇都宮ブレックス-選手b",
+          "name": "宇都宮ブレックス 選手B",
           "pos": "SG",
           "isForeign": false,
           "params": {
-            "scoring": 75,
-            "playmaking": 45,
-            "defense": 85,
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "宇都宮ブレックス-選手c",
+          "name": "宇都宮ブレックス 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "宇都宮ブレックス-選手d",
+          "name": "宇都宮ブレックス 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "宇都宮ブレックス-選手e",
+          "name": "宇都宮ブレックス 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "宇都宮ブレックス-選手f",
+          "name": "宇都宮ブレックス 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "gunma": {
+      "name": "群馬クレインサンダーズ",
+      "roster": [
+        {
+          "id": "群馬クレインサンダーズ-選手a",
+          "name": "群馬クレインサンダーズ 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "群馬クレインサンダーズ-選手b",
+          "name": "群馬クレインサンダーズ 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "群馬クレインサンダーズ-選手c",
+          "name": "群馬クレインサンダーズ 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "群馬クレインサンダーズ-選手d",
+          "name": "群馬クレインサンダーズ 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "群馬クレインサンダーズ-選手e",
+          "name": "群馬クレインサンダーズ 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "群馬クレインサンダーズ-選手f",
+          "name": "群馬クレインサンダーズ 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "koshigaya": {
+      "name": "越谷アルファーズ",
+      "roster": [
+        {
+          "id": "越谷アルファーズ-選手a",
+          "name": "越谷アルファーズ 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "越谷アルファーズ-選手b",
+          "name": "越谷アルファーズ 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "越谷アルファーズ-選手c",
+          "name": "越谷アルファーズ 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "越谷アルファーズ-選手d",
+          "name": "越谷アルファーズ 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "越谷アルファーズ-選手e",
+          "name": "越谷アルファーズ 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "越谷アルファーズ-選手f",
+          "name": "越谷アルファーズ 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
             "stamina": 80
           }
         }
@@ -259,50 +466,1419 @@
       "name": "千葉ジェッツ",
       "roster": [
         {
-          "id": "c1",
+          "id": "富樫-勇樹",
           "name": "富樫 勇樹",
           "pos": "PG",
           "isForeign": false,
           "params": {
-            "scoring": 95,
-            "playmaking": 98,
-            "defense": 50,
-            "stamina": 85
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
           }
         },
         {
-          "id": "c2",
+          "id": "渡邊-雄太",
           "name": "渡邊 雄太",
           "pos": "SF",
           "isForeign": false,
           "params": {
-            "scoring": 98,
-            "playmaking": 80,
-            "defense": 90,
-            "stamina": 90
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
           }
         },
         {
-          "id": "c3",
+          "id": "ジョン・ムーニー",
           "name": "ジョン・ムーニー",
           "pos": "C",
           "isForeign": true,
           "params": {
             "scoring": 85,
-            "playmaking": 40,
-            "defense": 98,
-            "stamina": 85
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
           }
         },
         {
-          "id": "c4",
+          "id": "クリストファー・スミス",
           "name": "クリストファー・スミス",
           "pos": "SG/SF",
           "isForeign": true,
           "params": {
-            "scoring": 90,
+            "scoring": 85,
+            "playmaking": 70,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "ディー・ジェイ・ステフェンズ",
+          "name": "ディー・ジェイ・ステフェンズ",
+          "pos": "SF/PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
             "playmaking": 60,
-            "defense": 75,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "原-修太",
+          "name": "原 修太",
+          "pos": "SG/SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "tokyo": {
+      "name": "アルバルク東京",
+      "roster": [
+        {
+          "id": "アルバルク東京-選手a",
+          "name": "アルバルク東京 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "アルバルク東京-選手b",
+          "name": "アルバルク東京 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "アルバルク東京-選手c",
+          "name": "アルバルク東京 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "アルバルク東京-選手d",
+          "name": "アルバルク東京 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "アルバルク東京-選手e",
+          "name": "アルバルク東京 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "アルバルク東京-選手f",
+          "name": "アルバルク東京 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "shibuya": {
+      "name": "サンロッカーズ渋谷",
+      "roster": [
+        {
+          "id": "サンロッカーズ渋谷-選手a",
+          "name": "サンロッカーズ渋谷 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "サンロッカーズ渋谷-選手b",
+          "name": "サンロッカーズ渋谷 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "サンロッカーズ渋谷-選手c",
+          "name": "サンロッカーズ渋谷 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "サンロッカーズ渋谷-選手d",
+          "name": "サンロッカーズ渋谷 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "サンロッカーズ渋谷-選手e",
+          "name": "サンロッカーズ渋谷 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "サンロッカーズ渋谷-選手f",
+          "name": "サンロッカーズ渋谷 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "kawasaki": {
+      "name": "川崎ブレイブサンダース",
+      "roster": [
+        {
+          "id": "川崎ブレイブサンダース-選手a",
+          "name": "川崎ブレイブサンダース 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "川崎ブレイブサンダース-選手b",
+          "name": "川崎ブレイブサンダース 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "川崎ブレイブサンダース-選手c",
+          "name": "川崎ブレイブサンダース 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "川崎ブレイブサンダース-選手d",
+          "name": "川崎ブレイブサンダース 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "川崎ブレイブサンダース-選手e",
+          "name": "川崎ブレイブサンダース 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "川崎ブレイブサンダース-選手f",
+          "name": "川崎ブレイブサンダース 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "yokohama": {
+      "name": "横浜ビー・コルセアーズ",
+      "roster": [
+        {
+          "id": "横浜ビー・コルセアーズ-選手a",
+          "name": "横浜ビー・コルセアーズ 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "横浜ビー・コルセアーズ-選手b",
+          "name": "横浜ビー・コルセアーズ 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "横浜ビー・コルセアーズ-選手c",
+          "name": "横浜ビー・コルセアーズ 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "横浜ビー・コルセアーズ-選手d",
+          "name": "横浜ビー・コルセアーズ 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "横浜ビー・コルセアーズ-選手e",
+          "name": "横浜ビー・コルセアーズ 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "横浜ビー・コルセアーズ-選手f",
+          "name": "横浜ビー・コルセアーズ 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "shizuoka": {
+      "name": "ベルテックス静岡",
+      "roster": [
+        {
+          "id": "ベルテックス静岡-選手a",
+          "name": "ベルテックス静岡 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "ベルテックス静岡-選手b",
+          "name": "ベルテックス静岡 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "ベルテックス静岡-選手c",
+          "name": "ベルテックス静岡 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "ベルテックス静岡-選手d",
+          "name": "ベルテックス静岡 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "ベルテックス静岡-選手e",
+          "name": "ベルテックス静岡 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "ベルテックス静岡-選手f",
+          "name": "ベルテックス静岡 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "sanen": {
+      "name": "三遠ネオフェニックス",
+      "roster": [
+        {
+          "id": "三遠ネオフェニックス-選手a",
+          "name": "三遠ネオフェニックス 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "三遠ネオフェニックス-選手b",
+          "name": "三遠ネオフェニックス 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "三遠ネオフェニックス-選手c",
+          "name": "三遠ネオフェニックス 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "三遠ネオフェニックス-選手d",
+          "name": "三遠ネオフェニックス 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "三遠ネオフェニックス-選手e",
+          "name": "三遠ネオフェニックス 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "三遠ネオフェニックス-選手f",
+          "name": "三遠ネオフェニックス 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "mikawa": {
+      "name": "シーホース三河",
+      "roster": [
+        {
+          "id": "シーホース三河-選手a",
+          "name": "シーホース三河 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "シーホース三河-選手b",
+          "name": "シーホース三河 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "シーホース三河-選手c",
+          "name": "シーホース三河 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "シーホース三河-選手d",
+          "name": "シーホース三河 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "シーホース三河-選手e",
+          "name": "シーホース三河 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "シーホース三河-選手f",
+          "name": "シーホース三河 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "nagoya_d": {
+      "name": "名古屋ダイヤモンドドルフィンズ",
+      "roster": [
+        {
+          "id": "名古屋ダイヤモンドドルフィンズ-選手a",
+          "name": "名古屋ダイヤモンドドルフィンズ 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "名古屋ダイヤモンドドルフィンズ-選手b",
+          "name": "名古屋ダイヤモンドドルフィンズ 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "名古屋ダイヤモンドドルフィンズ-選手c",
+          "name": "名古屋ダイヤモンドドルフィンズ 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "名古屋ダイヤモンドドルフィンズ-選手d",
+          "name": "名古屋ダイヤモンドドルフィンズ 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "名古屋ダイヤモンドドルフィンズ-選手e",
+          "name": "名古屋ダイヤモンドドルフィンズ 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "名古屋ダイヤモンドドルフィンズ-選手f",
+          "name": "名古屋ダイヤモンドドルフィンズ 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "nagoya_f": {
+      "name": "ファイティングイーグルス名古屋",
+      "roster": [
+        {
+          "id": "ファイティングイーグルス名古屋-選手a",
+          "name": "ファイティングイーグルス名古屋 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "ファイティングイーグルス名古屋-選手b",
+          "name": "ファイティングイーグルス名古屋 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "ファイティングイーグルス名古屋-選手c",
+          "name": "ファイティングイーグルス名古屋 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "ファイティングイーグルス名古屋-選手d",
+          "name": "ファイティングイーグルス名古屋 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "ファイティングイーグルス名古屋-選手e",
+          "name": "ファイティングイーグルス名古屋 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "ファイティングイーグルス名古屋-選手f",
+          "name": "ファイティングイーグルス名古屋 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "shiga": {
+      "name": "滋賀レイクス",
+      "roster": [
+        {
+          "id": "滋賀レイクス-選手a",
+          "name": "滋賀レイクス 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "滋賀レイクス-選手b",
+          "name": "滋賀レイクス 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "滋賀レイクス-選手c",
+          "name": "滋賀レイクス 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "滋賀レイクス-選手d",
+          "name": "滋賀レイクス 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "滋賀レイクス-選手e",
+          "name": "滋賀レイクス 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "滋賀レイクス-選手f",
+          "name": "滋賀レイクス 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "kyoto": {
+      "name": "京都ハンナリーズ",
+      "roster": [
+        {
+          "id": "岡田-侑大",
+          "name": "岡田 侑大",
+          "pos": "PG/SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "アンジェロ・カロイアロ",
+          "name": "アンジェロ・カロイアロ",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "チャールズ・ジャクソン",
+          "name": "チャールズ・ジャクソン",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "ジョーダン・ヒース",
+          "name": "ジョーダン・ヒース",
+          "pos": "C/PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "前田-悟",
+          "name": "前田 悟",
+          "pos": "SG/SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "澁田-怜音",
+          "name": "澁田 怜音",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "古川-孝敏",
+          "name": "古川 孝敏",
+          "pos": "SG/SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "小西-聖也",
+          "name": "小西 聖也",
+          "pos": "PG/SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "川島-悠翔",
+          "name": "川島 悠翔",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "osaka": {
+      "name": "大阪エヴェッサ",
+      "roster": [
+        {
+          "id": "大阪エヴェッサ-選手a",
+          "name": "大阪エヴェッサ 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "大阪エヴェッサ-選手b",
+          "name": "大阪エヴェッサ 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "大阪エヴェッサ-選手c",
+          "name": "大阪エヴェッサ 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "大阪エヴェッサ-選手d",
+          "name": "大阪エヴェッサ 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "大阪エヴェッサ-選手e",
+          "name": "大阪エヴェッサ 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "大阪エヴェッサ-選手f",
+          "name": "大阪エヴェッサ 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "shimane": {
+      "name": "島根スサノオマジック",
+      "roster": [
+        {
+          "id": "島根スサノオマジック-選手a",
+          "name": "島根スサノオマジック 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "島根スサノオマジック-選手b",
+          "name": "島根スサノオマジック 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "島根スサノオマジック-選手c",
+          "name": "島根スサノオマジック 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "島根スサノオマジック-選手d",
+          "name": "島根スサノオマジック 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "島根スサノオマジック-選手e",
+          "name": "島根スサノオマジック 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "島根スサノオマジック-選手f",
+          "name": "島根スサノオマジック 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "okayama": {
+      "name": "トライフープ岡山",
+      "roster": [
+        {
+          "id": "トライフープ岡山-選手a",
+          "name": "トライフープ岡山 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "トライフープ岡山-選手b",
+          "name": "トライフープ岡山 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "トライフープ岡山-選手c",
+          "name": "トライフープ岡山 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "トライフープ岡山-選手d",
+          "name": "トライフープ岡山 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "トライフープ岡山-選手e",
+          "name": "トライフープ岡山 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "トライフープ岡山-選手f",
+          "name": "トライフープ岡山 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "hiroshima": {
+      "name": "広島ドラゴンフライズ",
+      "roster": [
+        {
+          "id": "広島ドラゴンフライズ-選手a",
+          "name": "広島ドラゴンフライズ 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "広島ドラゴンフライズ-選手b",
+          "name": "広島ドラゴンフライズ 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "広島ドラゴンフライズ-選手c",
+          "name": "広島ドラゴンフライズ 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "広島ドラゴンフライズ-選手d",
+          "name": "広島ドラゴンフライズ 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "広島ドラゴンフライズ-選手e",
+          "name": "広島ドラゴンフライズ 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "広島ドラゴンフライズ-選手f",
+          "name": "広島ドラゴンフライズ 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "saga": {
+      "name": "佐賀バルーナーズ",
+      "roster": [
+        {
+          "id": "佐賀バルーナーズ-選手a",
+          "name": "佐賀バルーナーズ 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "佐賀バルーナーズ-選手b",
+          "name": "佐賀バルーナーズ 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "佐賀バルーナーズ-選手c",
+          "name": "佐賀バルーナーズ 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "佐賀バルーナーズ-選手d",
+          "name": "佐賀バルーナーズ 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "佐賀バルーナーズ-選手e",
+          "name": "佐賀バルーナーズ 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "佐賀バルーナーズ-選手f",
+          "name": "佐賀バルーナーズ 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        }
+      ]
+    },
+    "nagasaki": {
+      "name": "長崎ヴェルカ",
+      "roster": [
+        {
+          "id": "長崎ヴェルカ-選手a",
+          "name": "長崎ヴェルカ 選手A",
+          "pos": "PG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "長崎ヴェルカ-選手b",
+          "name": "長崎ヴェルカ 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "長崎ヴェルカ-選手c",
+          "name": "長崎ヴェルカ 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "長崎ヴェルカ-選手d",
+          "name": "長崎ヴェルカ 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "長崎ヴェルカ-選手e",
+          "name": "長崎ヴェルカ 選手E",
+          "pos": "C",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "長崎ヴェルカ-選手f",
+          "name": "長崎ヴェルカ 選手F",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
             "stamina": 80
           }
         }
@@ -312,51 +1888,75 @@
       "name": "琉球ゴールデンキングス",
       "roster": [
         {
-          "id": "r1",
-          "name": "今村 佳太",
-          "pos": "SG/SF",
+          "id": "琉球ゴールデンキングス-選手a",
+          "name": "琉球ゴールデンキングス 選手A",
+          "pos": "PG",
           "isForeign": false,
           "params": {
-            "scoring": 85,
+            "scoring": 70,
             "playmaking": 70,
-            "defense": 78,
-            "stamina": 85
+            "defense": 65,
+            "stamina": 80
           }
         },
         {
-          "id": "r2",
-          "name": "ジャック・クーリー",
+          "id": "琉球ゴールデンキングス-選手b",
+          "name": "琉球ゴールデンキングス 選手B",
+          "pos": "SG",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 70,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "琉球ゴールデンキングス-選手c",
+          "name": "琉球ゴールデンキングス 選手C",
+          "pos": "SF",
+          "isForeign": false,
+          "params": {
+            "scoring": 70,
+            "playmaking": 60,
+            "defense": 65,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "琉球ゴールデンキングス-選手d",
+          "name": "琉球ゴールデンキングス 選手D",
+          "pos": "PF",
+          "isForeign": true,
+          "params": {
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
+          }
+        },
+        {
+          "id": "琉球ゴールデンキングス-選手e",
+          "name": "琉球ゴールデンキングス 選手E",
           "pos": "C",
           "isForeign": true,
           "params": {
-            "scoring": 80,
-            "playmaking": 30,
-            "defense": 98,
-            "stamina": 85
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
           }
         },
         {
-          "id": "r3",
-          "name": "ヴィック・ロー",
-          "pos": "SF/PF",
+          "id": "琉球ゴールデンキングス-選手f",
+          "name": "琉球ゴールデンキングス 選手F",
+          "pos": "PF",
           "isForeign": true,
           "params": {
-            "scoring": 90,
-            "playmaking": 75,
-            "defense": 85,
-            "stamina": 85
-          }
-        },
-        {
-          "id": "r4",
-          "name": "岸本 隆一",
-          "pos": "PG/SG",
-          "isForeign": false,
-          "params": {
-            "scoring": 82,
-            "playmaking": 80,
-            "defense": 65,
-            "stamina": 82
+            "scoring": 85,
+            "playmaking": 60,
+            "defense": 80,
+            "stamina": 80
           }
         }
       ]
