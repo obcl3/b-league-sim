@@ -28,6 +28,11 @@ export const createPlayer = (data: any, teamName: string): Player => ({
   currentStamina: data.params.stamina,
 });
 
+export const checkOnTheCourtRule = (players: Player[]): boolean => {
+  const foreignCount = players.filter(p => p.isForeign).length;
+  return foreignCount <= 2;
+};
+
 export const simulatePossession = (
   offense: Player[],
   defense: Player[],
